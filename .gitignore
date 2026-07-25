@@ -1,0 +1,35 @@
+# Unreal Engine generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vsconfig
+
+# Visual Studio / Rider generated project files (regenerated via "Generate Project Files")
+*.sln
+*.slnx
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# JetBrains Rider
+.idea/
+
+# Compiled source
+*.obj
+*.o
+*.lib
+*.exp
+*.pdb
+*.dll
+*.exe
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings (per-machine, not shared)
+.claude/settings.local.json
